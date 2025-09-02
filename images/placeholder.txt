@@ -1,1 +1,14 @@
-This is a placeholder file for the images folder. Replace with real images later.
+📂 Images Folder
+
+This folder will contain all project-related images and renders.  
+For example:
+- vtol_uav_render.png
+- dual_rotation_actuator.png
+- hybrid_power_plant.png
+- air_quality_sensor.png
+- compound_gearbox.png
+
+You can also create subfolders like:
+- vtol_uav_gallery/
+- air_quality_gallery/
+etc.
