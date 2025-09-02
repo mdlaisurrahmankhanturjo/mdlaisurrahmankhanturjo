@@ -79,3 +79,4 @@ while running:
 
 pygame.quit()
 print(f"Game Over! Your score: {score}")
+# update
