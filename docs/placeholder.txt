@@ -1,0 +1,9 @@
+📂 Documents Folder
+
+This folder will contain reports, papers, and presentations.  
+For example:
+- vtol_thesis.pdf
+- dual_rotation_actuator.pdf
+- hybrid_power_plant.pdf
+- air_quality_poster.pdf
+- compound_gearbox.pdf
