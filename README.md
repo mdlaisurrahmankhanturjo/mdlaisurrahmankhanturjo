@@ -2,7 +2,7 @@
 
 🎓 Mechanical Engineering Graduate | Passionate about **Robotics, UAVs & CAD Design**  
 
-> Mechanical Engineering graduate building innovative UAVs, robotics, and CAD projects. Skilled in SolidWorks, ANSYS, STM32, Arduino, and embedded systems, bridging mechanical design with intelligent control.
+> Mechanical Engineering graduate building innovative UAVs, robotics, and CAD projects. Skilled in SolidWorks, ANSYS, XFLR5, Arduino, and embedded systems, bridging mechanical design with intelligent control.
 
 ---
 
@@ -13,7 +13,9 @@
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
-![MATLAB](https://img.shields.io/badge/MATLAB-FF7300?style=for-the-badge&logo=Mathworks&logoColor=white)  
+![MATLAB](https://img.shields.io/badge/MATLAB-FF7300?style=for-the-badge&logo=matlab&logoColor=white)
+![XFLR5](https://img.shields.io/badge/XFLR5-007ACC?style=for-the-badge&logo=appveyor&logoColor=white)
+![Homer Energy](https://img.shields.io/badge/Homer_Energy-FF6600?style=for-the-badge&logo=appveyor&logoColor=white)  
 
 
 ---
