@@ -1,0 +1,10 @@
+Air Quality Monitoring Images Placeholder
+----------------------------------------
+
+This folder will contain images and photos for the Arduino Air Quality Monitoring project.
+Example files:
+- air_quality_sensor.png
+- air_quality_gallery/prototype1.png
+- air_quality_gallery/prototype2.png
+
+Replace this placeholder with real images when ready.
