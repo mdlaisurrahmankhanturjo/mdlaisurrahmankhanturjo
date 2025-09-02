@@ -14,8 +14,8 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
 ![MATLAB](https://img.shields.io/badge/MATLAB-FF7300?style=for-the-badge&logo=matlab&logoColor=white)
-![XFLR5](https://img.shields.io/badge/XFLR5-007ACC?style=for-the-badge&logo=appveyor&logoColor=white)
-![Homer Energy](https://img.shields.io/badge/Homer_Energy-FF6600?style=for-the-badge&logo=appveyor&logoColor=white)  
+![XFLR5](https://img.shields.io/badge/XFLR5-007ACC?style=for-the-badge)
+![Homer Energy](https://img.shields.io/badge/Homer_Energy-FF6600?style=for-the-badge)
 
 
 ---
