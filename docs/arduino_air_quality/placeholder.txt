@@ -1,0 +1,7 @@
+Air Quality Monitoring Poster Placeholder
+----------------------------------------
+
+This folder will contain the poster or report for the Smart Air Quality Monitoring System.
+Expected file: air_quality_poster.pdf
+
+Replace this placeholder with the actual PDF when ready.
