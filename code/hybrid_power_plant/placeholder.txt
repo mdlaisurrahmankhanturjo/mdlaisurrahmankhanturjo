@@ -1,0 +1,9 @@
+Hybrid Power Plant Code Placeholder
+----------------------------------
+
+This folder will contain files related to the hybrid solar-wind power plant design.
+Example files:
+- homer_config.hom      # HOMER project file
+- energy_calc.xlsx      # Optional calculations
+
+Replace this placeholder with real code files when ready.
