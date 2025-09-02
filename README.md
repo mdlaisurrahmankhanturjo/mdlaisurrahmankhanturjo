@@ -99,40 +99,6 @@ Conceptually designed a **four-gear compound gearbox** in SolidWorks for lifting
 
 **🛠 Skills:** SOLIDWORKS, CAD, Mechanical Design, Stress Analysis, Power Transmission, Research, Project Management  
 
----
-
-## 📂 Folder Structure (to follow in GitHub)
-
-your-repo/
-│
-├── README.md
-│
-├── images/
-│   ├── vtol_uav_render.png
-│   ├── dual_rotation_actuator.png
-│   ├── hybrid_power_plant.png
-│   ├── air_quality_sensor.png
-│   ├── compound_gearbox.png
-│   ├── vtol_uav_gallery/...
-│   ├── dual_rotation_actuator_gallery/...
-│   ├── hybrid_power_plant_gallery/...
-│   ├── air_quality_gallery/...
-│   ├── compound_gearbox_gallery/...
-│
-├── docs/
-│   ├── vtol_thesis.pdf
-│   ├── dual_rotation_actuator.pdf
-│   ├── hybrid_power_plant.pdf
-│   ├── air_quality_poster.pdf
-│   ├── compound_gearbox.pdf
-│
-├── code/
-│   ├── vtol_uav/
-│   ├── dual_rotation_actuator/
-│   ├── hybrid_power_plant/
-│   ├── arduino_air_quality/
-│   ├── compound_gearbox/
-
 
 ---
 
