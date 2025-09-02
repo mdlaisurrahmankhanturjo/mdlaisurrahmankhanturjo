@@ -1,0 +1,8 @@
+Arduino Air Quality Code Placeholder
+-----------------------------------
+
+This folder will contain the Arduino sketch for the air quality monitoring system.
+Example files:
+- air_quality.ino       # Arduino sketch for dust sensor
+
+Replace this placeholder with the real Arduino code when ready.
