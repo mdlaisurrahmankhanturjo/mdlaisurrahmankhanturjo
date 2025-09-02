@@ -36,7 +36,6 @@
 
 ### 1️⃣ [Fixed-Wing VTOL UAV](https://github.com/mdlaisurrahmankhanturjo/vtol-uav)  
 ![VTOL UAV](images/vtol_uav_render.png)
-# or in Profile README
 [VTOL UAV](https://github.com/mdlaisurrahmankhanturjo/vtol-uav)
 ![VTOL UAV](https://raw.githubusercontent.com/mdlaisurrahmankhanturjo/vtol-uav/main/images/vtol_uav_render.png)
 
