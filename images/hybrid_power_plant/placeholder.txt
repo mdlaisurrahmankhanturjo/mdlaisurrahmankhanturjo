@@ -1,0 +1,10 @@
+Hybrid Solar-Wind Power Plant Images Placeholder
+------------------------------------------------
+
+This folder will contain images, diagrams, and charts for the Hybrid Solar-Wind Power Plant project.
+Example files:
+- hybrid_power_plant.png
+- hybrid_power_plant_gallery/chart1.png
+- hybrid_power_plant_gallery/chart2.png
+
+Replace this placeholder with real images when ready.
