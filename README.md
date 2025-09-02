@@ -34,51 +34,104 @@
 
 ---
 
-## 📌 Featured Projects
+# 🚀 Featured Projects
 
-### 1️⃣ Fixed-Wing VTOL UAV ✈️
-![VTOL UAV](https://raw.githubusercontent.com/mdlaisurrahmankhanturjo/vtol-uav/main/images/vtol_uav_render.png)
+## 1️⃣ Fixed-Wing VTOL UAV ✈️
+![VTOL UAV](images/vtol_uav_render.png)
 
 Completed the design and development of a **fixed-wing VTOL UAV**, including **aerodynamic analysis, CAD modeling, subsystem integration, fabrication, and control system implementation**. Presented as a thesis poster and led to a **conference paper at IEEE ECCE 2025**, highlighting novel VTOL transition strategies.
+
+- 📄 [Thesis Report](docs/vtol_thesis.pdf)
+- 💻 [Source Code](code/vtol_uav/)
+- 🖼 [More Images](images/vtol_uav_gallery/)
 
 **🛠 Skills:** SOLIDWORKS, ANSYS, XFLR5, MATLAB, 3D Modeling, Aerodynamics, Flight Control, Research, Project Management, Presentation Skills  
 
 ---
 
-### 2️⃣ Hybrid Dual-Rotation Actuator 🤖
-![Dual-Rotation Actuator](https://raw.githubusercontent.com/mdlaisurrahmankhanturjo/dual-rotation-actuator/main/images/dual_rotation_actuator.png)
+## 2️⃣ Hybrid Dual-Rotation Actuator 🤖
+![Dual-Rotation Actuator](images/dual_rotation_actuator.png)
 
-Conceptual design of a **dual-axis actuator** integrating two Dynamixel MX-64 servos in a **four-bearing framework**. Achieves **smooth, precise motion** with enhanced load stability. Modular 3D-printed components reduce weight and optimize manufacturability, exploring **low-cost, high-performance robotic joints**.
+Conceptual design of a **dual-axis actuator** integrating two Dynamixel MX-64 servos in a **four-bearing framework**. Achieves **smooth, precise motion** with enhanced load stability. Modular 3D-printed components reduce weight and optimize manufacturability.
+
+- 📄 [Design Report](docs/dual_rotation_actuator.pdf)
+- 💻 [Source Code](code/dual_rotation_actuator/)
+- 🖼 [CAD Files & Renders](images/dual_rotation_actuator_gallery/)
 
 **🛠 Skills:** SOLIDWORKS, CAD Modeling, Robotics, Actuators, Mechatronics, 3D Design, Product Development, Research  
 
 ---
 
-### 3️⃣ Hybrid Solar-Wind Power Plant 🌞🌬️
-![Hybrid Power Plant](https://raw.githubusercontent.com/mdlaisurrahmankhanturjo/hybrid-solar-wind-plant/main/images/hybrid_power_plant.png)
+## 3️⃣ Hybrid Solar-Wind Power Plant 🌞🌬️
+![Hybrid Power Plant](images/hybrid_power_plant.png)
 
-Designed a **hybrid renewable energy system** integrating **solar PV and wind energy** using HOMER software. Optimized **system sizing, energy yield, and cost efficiency** using wind and solar atlas data, demonstrating feasible and reliable sustainable power solutions.
+Designed a **hybrid renewable energy system** integrating **solar PV and wind energy** using HOMER software. Optimized **system sizing, energy yield, and cost efficiency** using wind and solar atlas data.
+
+- 📄 [System Design Report](docs/hybrid_power_plant.pdf)
+- 💻 [Simulation Files](code/hybrid_power_plant/)
+- 🖼 [Charts & Visuals](images/hybrid_power_plant_gallery/)
 
 **🛠 Skills:** HOMER, Renewable Energy, Solar PV, Wind Turbine Design, Project Management, Research, Power Plant Design, Data Analysis  
 
 ---
 
-### 4️⃣ Smart Air Quality Monitoring System 🌫️
-![Air Quality Sensor](https://raw.githubusercontent.com/mdlaisurrahmankhanturjo/arduino-air-quality/main/images/air_quality_sensor.png)
+## 4️⃣ Smart Air Quality Monitoring System 🌫️
+![Air Quality Sensor](images/air_quality_sensor.png)
 
-Developed an **Arduino-based dust sensor** to measure **particulate matter (PM)** concentrations in real-time. Created a prototype system showcasing **low-cost environmental monitoring** with data display and visualization. Presented results through a poster presentation highlighting **public health applications**.
+Developed an **Arduino-based dust sensor** to measure **particulate matter (PM)** in real-time. Prototype system showcased **low-cost environmental monitoring** with data logging and visualization.
+
+- 📄 [Poster Presentation](docs/air_quality_poster.pdf)
+- 💻 [Arduino Code](code/arduino_air_quality/)
+- 🖼 [Prototype Images](images/air_quality_gallery/)
 
 **🛠 Skills:** Arduino, Embedded Systems, Data Logging, Sensor Integration, MATLAB, Project Management, Research, Presentation Skills  
 
 ---
 
-### 5️⃣ Stress-Optimized Compound Gearbox ⚙️
-![Compound Gearbox](https://raw.githubusercontent.com/mdlaisurrahmankhanturjo/compound-gearbox/main/images/compound_gearbox.png)
+## 5️⃣ Stress-Optimized Compound Gearbox ⚙️
+![Compound Gearbox](images/compound_gearbox.png)
 
-Conceptually designed a **four-gear compound gearbox** in SolidWorks for lifting a **1 kg mass up a 50 cm, 45° ramp**. Developed a **C-shaped gear train** layout to reduce length and improve torque transmission. Conducted **static stress analysis in SolidWorks Simulation** to optimize material usage and ensure structural integrity.
+Conceptually designed a **four-gear compound gearbox** in SolidWorks for lifting a **1 kg mass up a 50 cm, 45° ramp**. Conducted **static stress analysis** to optimize material usage and ensure structural integrity.
+
+- 📄 [Design Report](docs/compound_gearbox.pdf)
+- 💻 [CAD Files](code/compound_gearbox/)
+- 🖼 [Stress Analysis Results](images/compound_gearbox_gallery/)
 
 **🛠 Skills:** SOLIDWORKS, CAD, Mechanical Design, Stress Analysis, Power Transmission, Research, Project Management  
 
+---
+
+## 📂 Folder Structure (to follow in GitHub)
+
+your-repo/
+│
+├── README.md
+│
+├── images/
+│   ├── vtol_uav_render.png
+│   ├── dual_rotation_actuator.png
+│   ├── hybrid_power_plant.png
+│   ├── air_quality_sensor.png
+│   ├── compound_gearbox.png
+│   ├── vtol_uav_gallery/...
+│   ├── dual_rotation_actuator_gallery/...
+│   ├── hybrid_power_plant_gallery/...
+│   ├── air_quality_gallery/...
+│   ├── compound_gearbox_gallery/...
+│
+├── docs/
+│   ├── vtol_thesis.pdf
+│   ├── dual_rotation_actuator.pdf
+│   ├── hybrid_power_plant.pdf
+│   ├── air_quality_poster.pdf
+│   ├── compound_gearbox.pdf
+│
+├── code/
+│   ├── vtol_uav/
+│   ├── dual_rotation_actuator/
+│   ├── hybrid_power_plant/
+│   ├── arduino_air_quality/
+│   ├── compound_gearbox/
 
 
 ---
