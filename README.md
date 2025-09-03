@@ -22,7 +22,7 @@
 
 
 ## 🔹 Highlights
-- 🛠 **IEEE Hybrid VTOL UAV** – Optimized tilt-rotor thrust vectoring for efficient hover-to-cruise transitions  
+- 🛠 **Hybrid VTOL UAV** – Optimized tilt-rotor thrust vectoring for efficient hover-to-cruise transitions  
 - ⚙️ **Stress-Optimized Gearbox** & **Hybrid Dual-Rotation Actuator (MX-64 + MX-64)** for compact robotic applications  
 - 🌫️ **Low-Cost Arduino Dust Sensor** – Affordable environmental monitoring  
 - 🤖 Hybrid robotics designs integrating multiple Dynamixel servos for precise and compact actuation  
