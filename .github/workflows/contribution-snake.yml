@@ -18,7 +18,7 @@ jobs:
       - name: Generate contribution snake (light & dark)
         uses: Platane/snk@v3
         with:
-          github_user_name: mdlaisurrah-mankhanturjo   # 👈 make sure this matches your EXACT GitHub username
+          github_user_name: mdlaisurrahmankhanturjo   # ✅ Correct username
           outputs: |
             images/github-contribution-grid-snake.svg
             images/github-contribution-grid-snake-dark.svg?palette=github-dark
