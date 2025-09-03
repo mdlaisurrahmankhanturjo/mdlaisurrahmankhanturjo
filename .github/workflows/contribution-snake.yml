@@ -2,24 +2,29 @@ name: Generate GitHub Contribution Snake
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # runs daily at midnight UTC
-  workflow_dispatch:  # allows manual trigger
+    - cron: "0 0 * * *"   # Runs daily at midnight UTC
+  workflow_dispatch:       # Allows you to trigger it manually from the Actions tab
 
 jobs:
   generate_snake:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write      # Needed to commit changes to your repo
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Generate contribution snake
-        uses: Platane/snk@v3.3.0
+      - name: Generate contribution snake (light & dark)
+        uses: Platane/snk@v3
         with:
-          output-light: images/github-contribution-grid-snake.svg
-          output-dark: images/github-contribution-grid-snake-dark.svg
+          github_user_name: mdlaisurrah-mankhanturjo   # 👈 make sure this matches your EXACT GitHub username
+          outputs: |
+            images/github-contribution-grid-snake.svg
+            images/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - name: Commit and push generated snake
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: "Update contribution snake"
+          commit_message: "🐍 update contribution snake"
           branch: main
