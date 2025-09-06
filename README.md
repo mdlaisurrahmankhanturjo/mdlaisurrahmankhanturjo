@@ -113,12 +113,7 @@ Conceptually designed a **four-gear compound gearbox** in SolidWorks for lifting
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mdlaisurrahmankhanturjo&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdlaisurrahmankhanturjo&layout=compact&theme=tokyonight)  
 
----
 
-## 🐍 Contribution Snake  
-
-![GitHub Snake Light](images/github-contribution-grid-snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](images/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 ---
 
