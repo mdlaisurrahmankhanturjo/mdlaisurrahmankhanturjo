@@ -37,12 +37,13 @@
 # 🚀 Featured Projects
 
 ## 1️⃣ Fixed-Wing VTOL UAV ✈️
-![VTOL UAV](images/vtol_uav_render.png)
+![VTOL UAV](images/vtol_display_image.jpg)
 
 Completed the design and development of a **fixed-wing VTOL UAV**, including **aerodynamic analysis, CAD modeling, subsystem integration, fabrication, and control system implementation**. Presented as a thesis poster and led to a **conference paper at IEEE ECCE 2025**, highlighting novel VTOL transition strategies.
 
-- 📄 [Thesis Report](docs/vtol_thesis.pdf)
-- 💻 [Source Code](code/vtol_uav/code.ino.txt)
+- 📄 [Thesis Report](docs/vtol_uav/final_thesis_report.pdf)
+- 📄 [Presentation Poster](docs/vtol_uav/poster.pdf)
+- 💻 [Flight Controller Code](code/vtol_uav/code.ino.txt)
 - 🖼 [More Images](images/vtol_uav_gallery/)
 
 **🛠 Skills:** SOLIDWORKS, ANSYS, XFLR5, MATLAB, 3D Modeling, Aerodynamics, Flight Control, Research, Project Management, Presentation Skills  
