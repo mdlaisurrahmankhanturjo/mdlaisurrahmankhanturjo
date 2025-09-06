@@ -42,7 +42,7 @@
 Completed the design and development of a **fixed-wing VTOL UAV**, including **aerodynamic analysis, CAD modeling, subsystem integration, fabrication, and control system implementation**. Presented as a thesis poster and led to a **conference paper at IEEE ECCE 2025**, highlighting novel VTOL transition strategies.
 
 - 📄 [Thesis Report](docs/vtol_thesis.pdf)
-- 💻 [Source Code](code/vtol_uav/)
+- 💻 [Source Code](code/vtol_uav/code.ino.txt)
 - 🖼 [More Images](images/vtol_uav_gallery/)
 
 **🛠 Skills:** SOLIDWORKS, ANSYS, XFLR5, MATLAB, 3D Modeling, Aerodynamics, Flight Control, Research, Project Management, Presentation Skills  
