@@ -55,7 +55,7 @@ Completed the design and development of a **fixed-wing VTOL UAV**, including **a
 
 Conceptual design of a **dual-axis actuator** integrating two Dynamixel MX-64 servos in a **four-bearing framework**. Achieves **smooth, precise motion** with enhanced load stability. Modular 3D-printed components reduce weight and optimize manufacturability.
 
-- 💻 [Robotic Joint](images/robot_joint.jpg)
+- 💻 [scorpionx](images/scorpionx.jpg)
 - 💻 [2D Drawing](images/2d_drawing.png)
 - 🖼 [CAD Files & Renders](files/actuator_cad/)
 
