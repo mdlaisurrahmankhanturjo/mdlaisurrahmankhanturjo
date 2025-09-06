@@ -90,13 +90,14 @@ Developed an **Arduino-based dust sensor** to measure **particulate matter (PM)*
 ---
 
 ## 5️⃣ Stress-Optimized Compound Gearbox ⚙️
-![Compound Gearbox](images/compound_gearbox.png)
+![Compound Gearbox](images/gearbox.jpg)
 
 Conceptually designed a **four-gear compound gearbox** in SolidWorks for lifting a **1 kg mass up a 50 cm, 45° ramp**. Conducted **static stress analysis** to optimize material usage and ensure structural integrity.
 
 - 📄 [Design Report](docs/compound_gearbox.pdf)
-- 💻 [CAD Files](code/compound_gearbox/)
-- 🖼 [Stress Analysis Results](images/compound_gearbox_gallery/)
+- 💻 [2D Drawings](images/compound_gearbox_gallery/2D/)
+- 💻 [CAD Files](files/cad/compound_gearbox/)
+- 🖼 [Stress Analysis Results](images/compound_gearbox_gallery/results/)
 
 **🛠 Skills:** SOLIDWORKS, CAD, Mechanical Design, Stress Analysis, Power Transmission, Research, Project Management  
 
