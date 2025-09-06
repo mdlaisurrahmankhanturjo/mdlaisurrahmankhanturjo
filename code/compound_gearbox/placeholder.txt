@@ -1,8 +1,0 @@
-Compound Gearbox Code Placeholder
---------------------------------
-
-This folder will contain MATLAB or simulation scripts for the stress-optimized compound gearbox.
-Example files:
-- gearbox_sim.m         # Simulation scripts
-
-Replace this placeholder with real code files when ready.

@@ -1,9 +1,0 @@
-📂 Code Folder
-
-This folder will contain source code and scripts.  
-For example:
-- vtol_uav/ (MATLAB, control scripts)
-- dual_rotation_actuator/ (robotics code)
-- hybrid_power_plant/ (HOMER configs, data files)
-- arduino_air_quality/ (Arduino sketches)
-- compound_gearbox/ (simulation scripts)

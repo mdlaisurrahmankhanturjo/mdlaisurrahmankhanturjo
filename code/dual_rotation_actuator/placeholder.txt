@@ -1,9 +1,0 @@
-Dual-Rotation Actuator Code Placeholder
---------------------------------------
-
-This folder will contain the code for controlling the hybrid dual-rotation actuator.
-Example files:
-- actuator_control.py   # Python or C++ servo control code
-- config.yaml           # Configuration settings
-
-Replace this placeholder with real code files when ready.
