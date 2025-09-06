@@ -1,7 +1,0 @@
-Hybrid Solar-Wind Power Plant Report Placeholder
------------------------------------------------
-
-This folder/file will contain the report for the Hybrid Solar-Wind Power Plant project.
-Expected file: hybrid_power_plant.pdf
-
-Replace this placeholder with the actual PDF when ready.
