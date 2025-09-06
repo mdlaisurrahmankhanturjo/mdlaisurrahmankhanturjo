@@ -51,13 +51,13 @@ Completed the design and development of a **fixed-wing VTOL UAV**, including **a
 ---
 
 ## 2️⃣ Hybrid Dual-Rotation Actuator 🤖
-![Dual-Rotation Actuator](images/dual_rotation_actuator.png)
+![Dual-Rotation Actuator](images/actuator_display_image.jpg)
 
 Conceptual design of a **dual-axis actuator** integrating two Dynamixel MX-64 servos in a **four-bearing framework**. Achieves **smooth, precise motion** with enhanced load stability. Modular 3D-printed components reduce weight and optimize manufacturability.
 
 - 📄 [Design Report](docs/dual_rotation_actuator.pdf)
-- 💻 [Source Code](code/dual_rotation_actuator/)
-- 🖼 [CAD Files & Renders](images/dual_rotation_actuator_gallery/)
+- 💻 [2D Drawing](images/2d_drawing.png)
+- 🖼 [CAD Files & Renders](files/actuator_cad/)
 
 **🛠 Skills:** SOLIDWORKS, CAD Modeling, Robotics, Actuators, Mechatronics, 3D Design, Product Development, Research  
 
