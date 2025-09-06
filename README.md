@@ -64,12 +64,11 @@ Conceptual design of a **dual-axis actuator** integrating two Dynamixel MX-64 se
 ---
 
 ## 3️⃣ Hybrid Solar-Wind Power Plant 🌞🌬️
-![Hybrid Power Plant](images/hybrid_power_plant.png)
+![Hybrid Power Plant](images/hybrid_pp.jpg)
 
 Designed a **hybrid renewable energy system** integrating **solar PV and wind energy** using HOMER software. Optimized **system sizing, energy yield, and cost efficiency** using wind and solar atlas data.
 
-- 📄 [System Design Report](docs/hybrid_power_plant.pdf)
-- 💻 [Simulation Files](code/hybrid_power_plant/)
+- 📄 [System Design Report](docs/hybrid_pp.pdf)
 - 🖼 [Charts & Visuals](images/hybrid_power_plant_gallery/)
 
 **🛠 Skills:** HOMER, Renewable Energy, Solar PV, Wind Turbine Design, Project Management, Research, Power Plant Design, Data Analysis  
