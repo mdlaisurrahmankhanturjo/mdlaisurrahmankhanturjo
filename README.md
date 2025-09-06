@@ -76,13 +76,14 @@ Designed a **hybrid renewable energy system** integrating **solar PV and wind en
 ---
 
 ## 4️⃣ Smart Air Quality Monitoring System 🌫️
-![Air Quality Sensor](images/air_quality_sensor.png)
+![Air Quality Sensor](images/project.jpg)
 
 Developed an **Arduino-based dust sensor** to measure **particulate matter (PM)** in real-time. Prototype system showcased **low-cost environmental monitoring** with data logging and visualization.
 
-- 📄 [Poster Presentation](docs/air_quality_poster.pdf)
-- 💻 [Arduino Code](code/arduino_air_quality/)
-- 🖼 [Prototype Images](images/air_quality_gallery/)
+- 📄 [Poster Presentation](docs/dust_sensor_poster.pdf)
+- 💻 [Arduino Code](code/dust_code.txt)
+- ⚡ [Circuit Image](images/dust_sensor_gallery/circuit.jpg)
+- 📉 [Result](images/dust_sensor_gallery/results.jpg)
 
 **🛠 Skills:** Arduino, Embedded Systems, Data Logging, Sensor Integration, MATLAB, Project Management, Research, Presentation Skills  
 
