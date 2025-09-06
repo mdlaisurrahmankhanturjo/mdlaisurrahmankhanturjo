@@ -97,7 +97,7 @@ Conceptually designed a **four-gear compound gearbox** in SolidWorks for lifting
 - 📄 [Design Report](docs/compound_gearbox.pdf)
 - ⚙️ [2D Drawing](images/compound_gearbox_gallery/2D/2d_drawings.jpg)
 - 🧰 [More 2D Drawings](images/compound_gearbox_gallery/2D/)
-- 💻 [CAD Files](files/cad/compound_gearbox/)
+- 💻 [CAD Files](files/cad/compound_gearbox/Gearbox.Design.SLDASM)
 - 🖼 [Stress Analysis Results](images/compound_gearbox_gallery/results/)
 
 **🛠 Skills:** SOLIDWORKS, CAD, Mechanical Design, Stress Analysis, Power Transmission, Research, Project Management  
