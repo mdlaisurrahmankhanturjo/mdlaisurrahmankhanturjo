@@ -112,10 +112,8 @@ Conceptually designed a **four-gear compound gearbox** in SolidWorks for lifting
   <img src="https://komarev.com/ghpvc/?username=mdlaisurrahmankhanturjo&style=for-the-badge"/>
 </p>
 
-<p align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=mdlaisurrahmankhanturjo&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats-turjo1.vercel.app/api?username=mdlaisurrahmankhanturjo&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-</p>
+![GitHub Stats](https://github-readme-stats-one-bice.vercel.app/api?username=mdlaisurrahmankhanturjo&show_icons=true&theme=tokyonight)
+
 
 
 ---
