@@ -1,106 +1,126 @@
-
 # Hi, I'm Turjo 👋
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=700&lines=Mechanical+Engineer;UAV+%7C+Robotics+%7C+CAD+Designer;SolidWorks+%7C+ANSYS+%7C+Embedded+Systems;Always+Learning+Always+Building" />
-</p>
+🎓 Mechanical Engineering Graduate | Passionate about **Robotics, UAVs & CAD Design**  
 
-<p align="center">
-<a href="https://www.linkedin.com/in/md-laisur-rahman-khan-turjo"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="mailto:turjokhan2002@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<img src="https://komarev.com/ghpvc/?username=mdlaisurrahmankhanturjo&style=for-the-badge"/>
-</p>
+> Mechanical Engineering graduate building innovative UAVs, robotics, and CAD projects. Skilled in SolidWorks, ANSYS, XFLR5, Arduino, and embedded systems, bridging mechanical design with intelligent control.
 
-> Mechanical Engineering graduate passionate about **UAVs, Robotics, CAD, Embedded Systems, and Mechanical Product Design**. I enjoy transforming engineering concepts into functional prototypes through simulation, manufacturing, and intelligent control.
+---
 
-## 🚀 About Me
+## 🔹 Skills & Tools  
 
-- 🎓 B.Sc. Mechanical Engineering (AUST)
-- 📄 IEEE ECCE 2025 Author
-- ✈️ Designed and developed a Fixed-Wing VTOL UAV
-- 🤖 Interested in Robotics, Mechatronics & Automation
-- 🌱 Currently learning ROS2, advanced embedded systems and control
+![SolidWorks](https://img.shields.io/badge/SolidWorks-FF0000?style=for-the-badge&logo=dassaultsystemes&logoColor=white)  
+![ANSYS](https://img.shields.io/badge/ANSYS-FFB71B?style=for-the-badge&logo=ansys&logoColor=black)  
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
+![MATLAB](https://img.shields.io/badge/MATLAB-FF7300?style=for-the-badge&logo=matlab&logoColor=white)
+![XFLR5](https://img.shields.io/badge/XFLR5-007ACC?style=for-the-badge)
+![Homer Energy](https://img.shields.io/badge/Homer_Energy-FF6600?style=for-the-badge)
 
-## 🛠 Tech Stack
 
-### CAD & Design
-SolidWorks • AutoCAD
+---
 
-### Simulation
-ANSYS Mechanical • ANSYS Fluent • XFLR5 • MATLAB/Simulink • HOMER
 
-### Programming
-Python • C++ • Arduino
-
-### Hardware
-Arduino • STM32 • ESP8266
-
-## 📚 Publication
-
-**Control System Design of a Fixed-Wing VTOL UAV**
-
-Published in **IEEE ECCE 2025**.
+## 🔹 Highlights
+- 🛠 **Hybrid VTOL UAV** – Optimized tilt-rotor thrust vectoring for efficient hover-to-cruise transitions  
+- ⚙️ **Stress-Optimized Gearbox** & **Hybrid Dual-Rotation Actuator (MX-64 + MX-64)** for compact robotic applications  
+- 🌫️ **Low-Cost Arduino Dust Sensor** – Affordable environmental monitoring  
+- 🤖 Hybrid robotics designs integrating multiple Dynamixel servos for precise and compact actuation  
+- 📐 CAD optimizations in **SolidWorks** for efficient mechanical assemblies  
+- 💡 Hands-on experience with **3D-printed and PLA-carbon fiber hybrid prototypes**  
+- 🧮 Engineering simulations in **ANSYS** and **XFLR5** for aerodynamics & stress analysis  
+- 📊 Data logging & visualization of sensor and actuator performance metrics  
+- 🏗️ Focused on **design for manufacturability, assembly, safety, and durability**  
 
 ---
 
 # 🚀 Featured Projects
 
-## ✈️ Fixed-Wing VTOL UAV
-Designed and developed a tilt-rotor VTOL UAV including aerodynamic analysis, CAD modeling, subsystem integration, fabrication, and flight control.
+## 1️⃣ Fixed-Wing VTOL UAV ✈️
+![VTOL UAV](images/vtol_display_image.jpg)
 
-**Highlights**
-- NACA 4412 Airfoil
-- ANSYS + XFLR5 Analysis
-- MATLAB
-- IEEE Publication
+Completed the design and development of a **fixed-wing VTOL UAV**, including **aerodynamic analysis, CAD modeling, subsystem integration, fabrication, and control system implementation**. Presented as a thesis poster and led to a **conference paper at IEEE ECCE 2025**, highlighting novel VTOL transition strategies.
 
-## 🤖 Hybrid Dual Rotation Actuator
-Compact robotic actuator using dual Dynamixel MX-64 servos with four-bearing architecture for smooth precision motion.
+- 📄 [Thesis Report](docs/vtol_uav/final_thesis_report.pdf)
+- 📄 [Presentation Poster](docs/vtol_uav/poster.pdf)
+- 💻 [Flight Controller Code](code/vtol_uav/code.ino.txt)
+- 🖼 [More Images](images/vtol_uav_gallery/)
 
-## 🌞 Hybrid Solar-Wind Power Plant
-Hybrid renewable energy system designed in HOMER for Saint Martin's Island.
-
-## 🌫 Smart Air Quality Monitoring
-Arduino-based PM monitoring system with data logging.
-
-## ⚙ Stress Optimized Compound Gearbox
-Mechanical gearbox designed and optimized in SolidWorks with stress analysis.
+**🛠 Skills:** SOLIDWORKS, ANSYS, XFLR5, MATLAB, 3D Modeling, Aerodynamics, Flight Control, Research, Project Management, Presentation Skills  
 
 ---
 
-## 🏆 GitHub
+## 2️⃣ Hybrid Dual-Rotation Actuator 🤖
+![Dual-Rotation Actuator](images/actuator_display_image.jpg)
+
+Conceptual design of a **dual-axis actuator** integrating two Dynamixel MX-64 servos in a **four-bearing framework**. Achieves **smooth, precise motion** with enhanced load stability. Modular 3D-printed components reduce weight and optimize manufacturability.
+
+- 💻 [scorpionx](images/scorpionx.jpg)
+- 💻 [2D Drawing](images/2d_drawing.png)
+- 🖼 [CAD Files & Renders](files/actuator_cad/)
+
+**🛠 Skills:** SOLIDWORKS, CAD Modeling, Robotics, Actuators, Mechatronics, 3D Design, Product Development, Research  
+
+---
+
+## 3️⃣ Hybrid Solar-Wind Power Plant 🌞🌬️
+![Hybrid Power Plant](images/hybrid_pp.jpg)
+
+Designed a **hybrid renewable energy system** integrating **solar PV and wind energy** using HOMER software. Optimized **system sizing, energy yield, and cost efficiency** using wind and solar atlas data.
+
+- 📄 [System Design Report](docs/hybrid_pp.pdf)
+- 🖼 [Charts & Visuals](images/hybrid_power_plant_gallery/)
+
+**🛠 Skills:** HOMER, Renewable Energy, Solar PV, Wind Turbine Design, Project Management, Research, Power Plant Design, Data Analysis  
+
+---
+
+## 4️⃣ Smart Air Quality Monitoring System 🌫️
+![Air Quality Sensor](images/project.jpg)
+
+Developed an **Arduino-based dust sensor** to measure **particulate matter (PM)** in real-time. Prototype system showcased **low-cost environmental monitoring** with data logging and visualization.
+
+- 📄 [Poster Presentation](docs/dust_sensor_poster.pdf)
+- 💻 [Arduino Code](code/dust_code.txt)
+- ⚡ [Circuit Image](images/dust_sensor_gallery/circuit.jpg)
+- 📉 [Result](images/dust_sensor_gallery/results.jpg)
+
+**🛠 Skills:** Arduino, Embedded Systems, Data Logging, Sensor Integration, MATLAB, Project Management, Research, Presentation Skills  
+
+---
+
+## 5️⃣ Stress-Optimized Compound Gearbox ⚙️
+![Compound Gearbox](images/gearbox.jpg)
+
+Conceptually designed a **four-gear compound gearbox** in SolidWorks for lifting a **1 kg mass up a 50 cm, 45° ramp**. Conducted **static stress analysis** to optimize material usage and ensure structural integrity.
+
+- 📄 [Design Report](docs/compound_gearbox.pdf)
+- ⚙️ [2D Drawing](images/compound_gearbox_gallery/2D/2d_drawings.jpg)
+- 🧰 [More 2D Drawings](images/compound_gearbox_gallery/2D/)
+- 💻 [CAD Files](files/cad/compound_gearbox/Gearbox.Design.SLDASM)
+- 🖼 [Stress Analysis Results](images/compound_gearbox_gallery/results/)
+
+**🛠 Skills:** SOLIDWORKS, CAD, Mechanical Design, Stress Analysis, Power Transmission, Research, Project Management  
+
+
+---
+
+
+## 📊 GitHub Activity
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=mdlaisurrahmankhanturjo&theme=tokyonight&no-frame=true&row=1&column=6"/>
+  <img src="https://komarev.com/ghpvc/?username=mdlaisurrahmankhanturjo&style=for-the-badge" />
 </p>
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mdlaisurrahmankhanturjo&show_icons=true&theme=tokyonight"/>
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=mdlaisurrahmankhanturjo&theme=tokyonight"/>
+  <img height="170" src="https://streak-stats.demolab.com?user=mdlaisurrahmankhanturjo&theme=tokyonight&hide_border=true&border_radius=10" />
+  <img height="170" src="https://github-readme-stats-one-bice.vercel.app/api?username=mdlaisurrahmankhanturjo&show_icons=true&theme=tokyonight" />
 </p>
 
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdlaisurrahmankhanturjo&layout=compact&theme=tokyonight"/>
-</p>
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mdlaisurrahmankhanturjo&theme=tokyo-night"/>
-</p>
+---
 
-## 🎯 Current Focus
-- UAV Design
-- Robotics
-- Embedded Systems
-- Mechanical Product Design
-- Automation
+## 📫 Contact  
 
-## 🤝 Open to Collaborate
-- UAV Research
-- Robotics Projects
-- Mechanical Design
-- Open Source Engineering
-
-## 📫 Contact
-
-- LinkedIn: https://www.linkedin.com/in/md-laisur-rahman-khan-turjo
-- Email: turjokhan2002@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/md-laisur-rahman-khan-turjo)  
+- 📧 turjokhan2002@gmail.com
