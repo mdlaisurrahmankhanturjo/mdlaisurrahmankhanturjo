@@ -1259,38 +1259,70 @@ Programming                 ████████████░░░░░�
 
 ---
 
-## 📈 Engineering Workflow
+---
 
-```text
-Idea
- │
- ▼
-Research
- │
- ▼
-Concept Design
- │
- ▼
-CAD Modeling
- │
- ▼
-Simulation
- │
- ▼
-Optimization
- │
- ▼
-Prototype
- │
- ▼
-Testing
- │
- ▼
-Documentation
- │
- ▼
-Continuous Improvement
-```
+# ⚙️ Engineering Design Lifecycle
+
+<p align="center">
+  <img src="images/engineering-design-lifecycle.png" alt="Engineering Design Lifecycle" width="100%">
+</p>
+
+## 📖 Overview
+
+Every engineering project in this portfolio follows a structured product development methodology, ensuring that ideas evolve into reliable, validated, and well-documented engineering solutions. This systematic workflow integrates research, design, simulation, optimization, prototyping, testing, and continuous improvement to deliver practical and efficient outcomes.
+
+---
+
+## 🔄 Development Process
+
+### 💡 01. Identify the Problem
+Define engineering objectives, understand user needs, establish design requirements, and identify technical constraints.
+
+### 📚 02. Literature Review
+Study existing research, engineering standards, previous designs, and available technologies to build a strong technical foundation.
+
+### 💭 03. Concept Generation
+Develop multiple engineering concepts, evaluate alternative solutions, and select the most feasible design approach.
+
+### 📐 04. Engineering Design
+Perform engineering calculations, define system architecture, determine specifications, and prepare preliminary design layouts.
+
+### 💻 05. CAD Modeling
+Develop detailed 3D models, assemblies, engineering drawings, and manufacturing-ready components using modern CAD software.
+
+### 📊 06. Simulation & Analysis
+Validate design performance through Computational Fluid Dynamics (CFD), Finite Element Analysis (FEA), aerodynamic analysis, structural evaluation, or system simulations.
+
+### ⚡ 07. Design Optimization
+Improve performance, reduce weight, enhance manufacturability, increase efficiency, and optimize safety factors through iterative refinement.
+
+### 🛠 08. Prototype Development
+Manufacture, assemble, and integrate mechanical, electrical, and embedded subsystems into a functional prototype.
+
+### 🧪 09. Testing & Validation
+Evaluate system performance through experimental testing, functional verification, and comparison against design objectives.
+
+### 📄 10. Technical Documentation
+Prepare technical reports, engineering drawings, simulation results, presentations, user documentation, and research publications.
+
+### 🔄 11. Continuous Improvement
+Analyze feedback, identify opportunities for enhancement, implement design revisions, and continuously improve the engineering solution.
+
+---
+
+## 🎯 Core Engineering Principles
+
+- ✔ Engineering-Driven Design
+- ✔ Analytical Problem Solving
+- ✔ Simulation-Based Validation
+- ✔ Design for Manufacturability (DFM)
+- ✔ Design Optimization
+- ✔ Data-Driven Decision Making
+- ✔ Continuous Learning & Improvement
+
+---
+
+> *"Engineering transforms innovative ideas into reliable, efficient, and practical solutions through systematic design, rigorous analysis, and continuous improvement."*
 
 ---
 
