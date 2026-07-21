@@ -5,11 +5,7 @@
 <!-- ========================================================= -->
 
 <p align="center">
-
-<!-- Replace this after creating your custom banner -->
-
-<img src="assets/banner.png" width="100%"/>
-
+  <img src="images/banner.png" alt="Md. Laisur Rahman Khan Turjo GitHub Banner" width="100%" />
 </p>
 
 <h1 align="center">
