@@ -414,33 +414,26 @@ Experience
 
 ---
 
-# 🔬 Engineering Workflow
+# ⚙️ Engineering Design Workflow
 
-```text
-Problem Definition
-        │
-        ▼
-Concept Development
-        │
-        ▼
-CAD Design
-        │
-        ▼
-Engineering Analysis
-        │
-        ▼
-Optimization
-        │
-        ▼
-Prototype Development
-        │
-        ▼
-Testing & Validation
-        │
-        ▼
-Documentation
-```
+<p align="center">
+  <img src="images/workflow.png" alt="Engineering Design Workflow" width="700">
+</p>
 
+This project follows a structured engineering workflow that mirrors industry-standard product development practices. From defining system requirements to validating the final design, every stage contributes to producing a reliable, optimized, and well-documented engineering solution.
+
+| Stage | Description |
+|-------|-------------|
+| 🔍 **Requirements Analysis** | Define project objectives, engineering constraints, design requirements, and performance targets. |
+| 💡 **Concept Design** | Develop design concepts, evaluate alternatives, and select the most feasible engineering solution. |
+| 💻 **CAD Modeling** | Create detailed 3D components, assemblies, engineering drawings, and manufacturing-ready models using SOLIDWORKS. |
+| 📊 **Engineering Analysis** | Perform CFD, FEA, aerodynamic, structural, or system simulations to evaluate engineering performance. |
+| ⚡ **Optimization** | Improve geometry, material selection, weight, efficiency, manufacturability, and overall system performance. |
+| 🛠 **Prototype Development** | Fabricate, assemble, and integrate mechanical, electrical, and embedded subsystems into a functional prototype. |
+| 🧪 **Testing & Validation** | Verify design performance through simulations, experiments, and functional testing against design objectives. |
+| 📄 **Technical Documentation** | Prepare engineering reports, CAD drawings, simulation results, project documentation, presentations, and research publications. |
+
+---
 ---
 
 # 📈 Technical Proficiency
