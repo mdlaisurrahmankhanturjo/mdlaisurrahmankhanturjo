@@ -535,14 +535,44 @@ This research presents the design and implementation of the control architecture
 - Embedded Systems
 - Mechanical Design
 
-> 📄 **Paper:** *Control System Design of a Fixed-Wing VTOL UAV*
+## 📄 Publication
 
-> 🔗 **IEEE Xplore:** *(Add your IEEE Xplore link here)*
+**Control System Design of a Fixed-Wing VTOL UAV**
 
-> 🆔 **DOI:** *(Add DOI here)*
+Published in the **2025 IEEE International Conference on Electrical, Computer and Communication Engineering (ECCE 2025)**.
 
-> 📑 **BibTeX Citation:** *(Optional)*
+📄 **Paper Title:**  
+*Control System Design of a Fixed-Wing VTOL UAV*
 
+📚 **Conference:**  
+2025 IEEE International Conference on Electrical, Computer and Communication Engineering (ECCE)
+
+📍 **Location:**  
+Dhaka, Bangladesh
+
+📅 **Year:** 2025
+
+🔗 **IEEE Xplore:**  
+https://ieeexplore.ieee.org/document/11013869
+
+🆔 **DOI:**  
+10.1109/ECCE.2025.11013869
+
+---
+
+### 📑 BibTeX Citation
+
+```bibtex
+@inproceedings{turjo2025vtol,
+  author    = {Md. Laisur Rahman Khan Turjo and others},
+  title     = {Control System Design of a Fixed-Wing VTOL UAV},
+  booktitle = {2025 IEEE International Conference on Electrical, Computer and Communication Engineering (ECCE)},
+  year      = {2025},
+  address   = {Dhaka, Bangladesh},
+  doi       = {10.1109/ECCE.2025.11013869},
+  url       = {https://ieeexplore.ieee.org/document/11013869}
+}
+```
 ---
 
 # 🚀 Engineering Portfolio
