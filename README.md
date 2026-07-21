@@ -1165,11 +1165,11 @@ My GitHub serves as an engineering portfolio where I document projects, research
 
 ---
 
-## 📈 GitHub Statistics
+# 📈 GitHub Statistics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mdlaisurrahmankhanturjo&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"/>
+<img height="170" src="https://github-readme-stats-one-bice.vercel.app/api?username=mdlaisurrahmankhanturjo&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"/>
 
 <img height="170" src="https://streak-stats.demolab.com?user=mdlaisurrahmankhanturjo&theme=tokyonight&hide_border=true"/>
 
@@ -1177,48 +1177,51 @@ My GitHub serves as an engineering portfolio where I document projects, research
 
 ---
 
-## 💻 Most Used Languages
+# 💻 Most Used Languages
 
 <p align="center">
 
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdlaisurrahmankhanturjo&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="55%" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=mdlaisurrahmankhanturjo&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
 </p>
 
 ---
 
-## 📅 Contribution Graph
+# 📅 Contribution Activity
 
 <p align="center">
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=mdlaisurrahmankhanturjo&theme=tokyo-night&hide_border=true"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mdlaisurrahmankhanturjo&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
 ---
 
-## 🏆 GitHub Achievements
+# 📊 GitHub Profile Summary
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=mdlaisurrahmankhanturjo&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true&row=2&column=4"/>
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdlaisurrahmankhanturjo&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mdlaisurrahmankhanturjo&theme=tokyonight"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mdlaisurrahmankhanturjo&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mdlaisurrahmankhanturjo&theme=tokyonight"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mdlaisurrahmankhanturjo&theme=tokyonight&utcOffset=6"/>
 
 </p>
 
 ---
-
-## ⚡ Development Activity
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=mdlaisurrahmankhanturjo&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-> **Note:** The WakaTime card requires a WakaTime account and GitHub integration. If you don't use WakaTime, simply remove this section.
-
----
-
 ## 📦 Repository Overview
 
 | Repository | Domain |
