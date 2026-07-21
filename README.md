@@ -767,7 +767,9 @@ The project involved the complete engineering lifecycle including aircraft conce
 
 <a href="https://github.com/mdlaisurrahmankhanturjo/hybrid-dual-rotation-actuator">
 
-<img src="assets/projects/actuator/banner.png" width="100%">
+<p align="center">
+  <img src="images/banner2.png" alt="Hybrid Dual-Rotation Actuator Banner" width="100%">
+</p>
 
 </a>
 
@@ -812,7 +814,9 @@ The project focuses on compact mechanical architecture, CAD optimization, manufa
 
 <a href="https://github.com/mdlaisurrahmankhanturjo/stress-optimized-compound-gearbox">
 
-<img src="assets/projects/gearbox/banner.png" width="100%">
+<p align="center">
+  <img src="images/banner3.png" alt="Stress-Optimized Compound Gearbox Banner" width="100%">
+</p>
 
 </a>
 
@@ -853,7 +857,9 @@ Designed a four-stage compound gearbox optimized for efficient torque transmissi
 
 <a href="https://github.com/mdlaisurrahmankhanturjo/hybrid-solar-wind-power-plant">
 
-<img src="assets/projects/hybrid/banner.png" width="100%">
+<p align="center">
+  <img src="images/banner4.png" alt="Hybrid Solar-Wind Power Plant Banner" width="100%">
+</p>
 
 </a>
 
@@ -894,7 +900,10 @@ Designed a hybrid renewable energy system integrating photovoltaic solar panels 
 
 <a href="https://github.com/mdlaisurrahmankhanturjo/smart-air-quality-monitoring-system">
 
-<img src="assets/projects/airquality/banner.png" width="100%">
+<p align="center">
+  <img src="images/banner5.png" alt="Smart Air Quality Monitoring System Banner" width="100%">
+</p>
+
 
 </a>
 
