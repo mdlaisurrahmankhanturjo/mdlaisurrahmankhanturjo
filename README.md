@@ -1428,77 +1428,7 @@ If you have an exciting idea, research opportunity, or engineering challenge, I'
 
 ---
 
-# 🤝 Let's Connect
 
-<p align="center">
-
-<a href="https://www.linkedin.com/in/md-laisur-rahman-khan-turjo">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="mailto:turjokhan2002@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-<a href="https://github.com/mdlaisurrahmankhanturjo">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
-</a>
-
-</p>
-
----
-
-# 📬 Contact Information
-
-| Platform | Link |
-|----------|------|
-| 💼 LinkedIn | https://www.linkedin.com/in/md-laisur-rahman-khan-turjo |
-| 📧 Email | turjokhan2002@gmail.com |
-| 💻 GitHub | https://github.com/mdlaisurrahmankhanturjo |
-
----
-
-# 💡 Philosophy
-
-> *"Engineering is the art of transforming ideas into reliable, efficient, and meaningful solutions through creativity, analysis, and continuous improvement."*
-
----
-
-# 🙏 Thank You for Visiting
-
-Thank you for taking the time to explore my GitHub portfolio.
-
-I hope these projects demonstrate not only my technical skills but also my curiosity, dedication, and enthusiasm for solving real-world engineering challenges.
-
-If you find my work interesting or would like to collaborate, feel free to connect with me.
-
----
-
-<p align="center">
-
-### ⭐ If you enjoy my work, consider giving a star to the repositories that interest you!
-
-</p>
-
----
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=mdlaisurrahmankhanturjo&style=for-the-badge&color=blue"/>
-
-</p>
-
----
-
-<p align="center">
-
-**Designed & Built with ❤️ by Md. Laisur Rahman Khan Turjo**
-
-Mechanical Engineer • Researcher • UAV Developer • Robotics Enthusiast
-
-© 2026 All Rights Reserved
-
-</p>
 
 
 <!-- ========================================================= -->
@@ -1677,6 +1607,37 @@ The projects in this portfolio demonstrate practical applications of aerospace e
 
 ---
 
+
+# 🤝 Let's Connect
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/md-laisur-rahman-khan-turjo">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="mailto:turjokhan2002@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://github.com/mdlaisurrahmankhanturjo">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+</a>
+
+</p>
+
+---
+
+# 📬 Contact Information
+
+| Platform | Link |
+|----------|------|
+| 💼 LinkedIn | https://www.linkedin.com/in/md-laisur-rahman-khan-turjo |
+| 📧 Email | turjokhan2002@gmail.com |
+| 💻 GitHub | https://github.com/mdlaisurrahmankhanturjo |
+
+---
+
 # ❤️ Support My Work
 
 If you enjoy my projects or find them useful:
@@ -1713,22 +1674,46 @@ Let's create the future through engineering.
 
 <p align="center">
 
-### ⭐ Thanks for Visiting!
 
-**Md. Laisur Rahman Khan Turjo**
+# 💡 Philosophy
 
-Mechanical Engineer • UAV Researcher • Robotics Enthusiast • Product Designer
-
-📍 Dhaka, Bangladesh
-
-📧 **turjokhan2002@gmail.com**
-
-💼 **LinkedIn:** https://www.linkedin.com/in/md-laisur-rahman-khan-turjo
-
-🐙 **GitHub:** https://github.com/mdlaisurrahmankhanturjo
+> *"Engineering is the art of transforming ideas into reliable, efficient, and meaningful solutions through creativity, analysis, and continuous improvement."*
 
 ---
 
-**"Design. Simulate. Build. Validate. Improve. Repeat."**
+# 🙏 Thank You for Visiting
+
+Thank you for taking the time to explore my GitHub portfolio.
+
+I hope these projects demonstrate not only my technical skills but also my curiosity, dedication, and enthusiasm for solving real-world engineering challenges.
+
+If you find my work interesting or would like to collaborate, feel free to connect with me.
+
+---
+
+<p align="center">
+
+### ⭐ If you enjoy my work, consider giving a star to the repositories that interest you!
 
 </p>
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=mdlaisurrahmankhanturjo&style=for-the-badge&color=blue"/>
+
+</p>
+
+---
+
+<p align="center">
+
+**Designed & Built with ❤️ by Md. Laisur Rahman Khan Turjo**
+
+Mechanical Engineer • Researcher • UAV Developer • Robotics Enthusiast
+
+© 2026 All Rights Reserved
+
+</p>
+
