@@ -1557,38 +1557,70 @@ I'm always happy to connect, exchange ideas, and collaborate on meaningful engin
 
 ---
 
-# 📈 Portfolio Statistics
+---
 
-```text
-Engineering Disciplines
-├── Aerospace Engineering
-├── Mechanical Engineering
-├── Robotics
-├── Mechatronics
-├── Embedded Systems
-├── Renewable Energy
-├── Engineering Simulation
-└── Product Design
+# 🏗 Engineering Expertise
 
-Software & Tools
-├── SolidWorks
-├── ANSYS Mechanical
-├── ANSYS Fluent
-├── MATLAB
-├── XFLR5
-├── HOMER Pro
-├── Arduino IDE
-├── Git & GitHub
-└── Microsoft Office
+<p align="center">
+  <img src="images/engineering-expertise.png" alt="Engineering Expertise" width="100%">
+</p>
 
-Project Categories
-├── UAV Systems
-├── Robotics
-├── Mechanical Design
-├── Renewable Energy
-├── Embedded Systems
-└── Engineering Research
-```
+## 💡 Overview
+
+My engineering experience spans the complete product development lifecycle—from concept generation and analytical design to simulation, prototyping, embedded systems integration, and technical documentation. I enjoy solving multidisciplinary engineering problems by combining mechanical design principles with computational analysis and intelligent control systems.
+
+The projects in this portfolio demonstrate practical applications of aerospace engineering, robotics, mechanical design, renewable energy, embedded systems, and engineering simulation. Every project emphasizes analytical thinking, optimization, manufacturability, and real-world engineering practices.
+
+---
+
+## 🎯 Core Engineering Domains
+
+| Engineering Domain | Focus Areas |
+|-------------------|-------------|
+| ✈️ Aerospace Engineering | Fixed-Wing UAVs, VTOL Systems, Aerodynamics, Flight Control |
+| ⚙️ Mechanical Engineering | Machine Design, Power Transmission, Mechanical Assemblies |
+| 🤖 Robotics & Mechatronics | Actuator Design, Motion Systems, Servo Integration |
+| 💻 Embedded Systems | Arduino, STM32, Sensors, PCB Integration |
+| 🌱 Renewable Energy | Solar PV, Wind Energy, Hybrid Power Systems |
+| 📊 Engineering Simulation | CFD, Static Stress Analysis, Aerodynamic Modeling |
+| 📦 Product Development | CAD Design, Rapid Prototyping, Engineering Documentation |
+
+---
+
+## 🛠 Engineering Software
+
+<div align="center">
+
+| Software | Purpose |
+|----------|---------|
+| 🟥 SOLIDWORKS | 3D CAD Modeling, Assemblies & Engineering Drawings |
+| 🟨 ANSYS Mechanical | Static Structural Analysis |
+| 🟦 ANSYS Fluent | CFD & Flow Simulation |
+| 🟧 MATLAB | Engineering Computation & Data Analysis |
+| 🟩 XFLR5 | Airfoil & Aircraft Performance Analysis |
+| 🟪 HOMER Pro | Hybrid Renewable Energy Optimization |
+| 🟦 Arduino IDE | Embedded Programming |
+| ⚫ Git & GitHub | Version Control & Project Documentation |
+
+</div>
+
+---
+
+## 🚀 Featured Engineering Areas
+
+- ✈️ Fixed-Wing VTOL UAV Design
+- 🤖 Robotics & Mechatronic Systems
+- ⚙️ Mechanical Design & CAD Development
+- 📊 Engineering Simulation & Analysis
+- 🌞 Renewable Energy Systems
+- 📡 Embedded Systems Development
+- 📄 Engineering Research & Technical Documentation
+
+---
+
+> **"Engineering is the bridge between innovative ideas and practical solutions through analysis, design, validation, and continuous improvement."**
+
+---
 
 ---
 
