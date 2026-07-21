@@ -713,8 +713,9 @@ Each repository documents the engineering process—from concept development and
 
 <a href="https://github.com/mdlaisurrahmankhanturjo/fixed-wing-vtol-uav">
 
-<img src="assets/projects/vtol/banner.png" width="100%">
-
+<p align="center">
+  <img src="images/banner1.png" alt="Fixed-Wing VTOL UAV Banner" width="100%" />
+</p>
 </a>
 
 </p>
