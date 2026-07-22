@@ -480,15 +480,7 @@ This GitHub profile serves as my engineering portfolio, showcasing projects, res
 
 ---
 
-## 💻 Most Used Languages
 
-<p align="center">
-
-<img width="55%" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=mdlaisurrahmankhanturjo&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-
-</p>
-
----
 
 ## 📅 Contribution Graph
 
@@ -508,13 +500,7 @@ This GitHub profile serves as my engineering portfolio, showcasing projects, res
 
 </p>
 
-<p align="center">
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mdlaisurrahmankhanturjo&theme=tokyonight"/>
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mdlaisurrahmankhanturjo&theme=tokyonight"/>
-
-</p>
 
 <p align="center">
 
