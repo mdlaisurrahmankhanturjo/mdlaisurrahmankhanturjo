@@ -56,6 +56,21 @@ My work combines **mechanical design, UAV systems, robotics, embedded systems, C
 My flagship project is the **Design and Development of a Fixed-Wing VTOL UAV**, which led to an **IEEE conference publication**. Alongside aerospace projects, I have developed robotic mechanisms, renewable energy systems, and embedded IoT applications while continuously expanding my expertise in multidisciplinary engineering.
 
 ---
+# 🌟 Featured Portfolio
+
+<p align="center">
+
+<a href="https://github.com/mdlaisurrahmankhanturjo/engineering-portfolio">
+
+<img src="https://img.shields.io/badge/📂_Explore_My_Complete_Engineering_Portfolio-2563EB?style=for-the-badge">
+
+</a>
+
+</p>
+
+> **Explore my complete engineering portfolio, featuring detailed project documentation, CAD designs, engineering simulations, research publications, technical reports, and development workflow.**
+
+---
 
 # 🚀 Engineering Domains
 
