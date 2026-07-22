@@ -164,22 +164,13 @@ My flagship project is the **Design and Development of a Fixed-Wing VTOL UAV**, 
 
 </p>
 
-## 📌 Core Competencies
-
-| Engineering | Software | Research |
-|-------------|----------|----------|
-| CAD Design | SolidWorks | IEEE Publication |
-| UAV Systems | ANSYS Fluent | Technical Writing |
-| Robotics | MATLAB | Engineering Documentation |
-| Embedded Systems | XFLR5 | Simulation |
-| Product Development | Arduino | Problem Solving |
 
 ---
 <!-- ========================================================= -->
 <!--             RESEARCH PUBLICATION & PROJECTS              -->
 <!-- ========================================================= -->
 
-# 📄 Research Publication
+# 📚 Publications & Research
 
 My undergraduate research focused on the design and control of a **Fixed-Wing Vertical Take-Off and Landing (VTOL) Unmanned Aerial Vehicle**, integrating aerodynamic analysis, mechanical design, embedded control, and prototype development.
 
@@ -199,7 +190,15 @@ My undergraduate research focused on the design and control of a **Fixed-Wing Ve
 
 📖 **IEEE Xplore**
 
-https://ieeexplore.ieee.org/document/11013869
+<p align="center">
+
+<a href="https://ieeexplore.ieee.org/document/11013869">
+
+<img src="https://img.shields.io/badge/Read_on_IEEE_Xplore-00629B?style=for-the-badge&logo=ieee&logoColor=white">
+
+</a>
+
+</p>
 
 </td>
 </tr>
@@ -207,13 +206,8 @@ https://ieeexplore.ieee.org/document/11013869
 
 ---
 
-# 📈 Portfolio Overview
 
-| Projects | Research | Domains | Status |
-|:---------:|:--------:|:-------:|:------:|
-| 🚀 5+ Engineering Projects | 📄 IEEE Published | ✈️ Aerospace • 🤖 Robotics • ⚙️ Mechanical | 🟢 Active |
-
-# 🚀 Featured Engineering Projects
+# 🚀 Flagship Engineering Projects
 
 Each project represents a complete engineering workflow—from concept development and CAD design to simulation, prototyping, testing, and technical documentation.
 
@@ -468,7 +462,7 @@ Every engineering project in this portfolio follows a structured development pro
 
 ---
 
-# 📊 GitHub Dashboard
+# 📊 GitHub Analytics
 
 This GitHub profile serves as my engineering portfolio, showcasing projects, research, simulations, CAD models, embedded systems, and technical documentation.
 
@@ -532,7 +526,7 @@ This GitHub profile serves as my engineering portfolio, showcasing projects, res
 
 ---
 
-# 🤝 Let's Connect
+# 🤝 Connect With Me
 
 I'm always open to discussing engineering projects, research collaborations, robotics, UAV systems, and innovative product development.
 
@@ -557,10 +551,6 @@ I'm always open to discussing engineering projects, research collaborations, rob
 </p>
 
 ---
-
-# 💬 Favorite Quote
-
-> *"Engineering transforms ideas into practical solutions through curiosity, analysis, innovation, and continuous improvement."*
 
 ---
 
