@@ -437,6 +437,17 @@ Developed an embedded IoT system capable of monitoring airborne particulate matt
 
 Interested in the full engineering process behind these projects?
 
+<p align="center">
+
+<a href="https://github.com/mdlaisurrahmankhanturjo/engineering-portfolio">
+
+<img src="https://img.shields.io/badge/📂_Explore_My_Complete_Engineering_Portfolio-2563EB?style=for-the-badge">
+
+</a>
+
+</p>
+
+
 My portfolio repositories include:
 
 - 📐 Engineering Design Methodology
